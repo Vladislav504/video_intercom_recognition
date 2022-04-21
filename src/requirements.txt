@@ -1,0 +1,10 @@
+cmake==3.22.2
+dlib==19.23.0
+face-recognition==1.3.0
+numpy==1.22.3
+opencv-python==4.5.5.64
+sounddevice==0.4.4
+SpeechRecognition==3.8.1
+vosk==0.3.32
+websocket-client==1.3.2
+websockets==10.3
